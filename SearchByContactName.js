@@ -21,8 +21,6 @@ function bas() {
             break;
         } else {
             para.textContent = 'Contact not found.'
-        }
-        
+        }   
     }
-   
 }
